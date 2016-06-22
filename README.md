@@ -1,7 +1,7 @@
 simple-sge
 ==========
 
-Simple installation of (Son of Grid Engine)[https://arc.liv.ac.uk/trac/SGE]
+Simple installation of [Son of Grid Engine](https://arc.liv.ac.uk/trac/SGE)
 designed primarily for testing software that integrates with SGE.
 
 Usage
